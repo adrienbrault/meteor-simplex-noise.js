@@ -1,0 +1,8 @@
+{
+    "name": "simplex-noise.js",
+    "description": "A fast simplex noise implementation in Javascript.",
+    "homepage": "https://github.com/jwagner/simplex-noise.js",
+    "author": "Jonas Wagner <jonas@29a.ch> (http://29a.ch/)",
+    "version": "2.1.1",
+    "git": "https://github.com/adrienbrault/meteor-simplex-noise.js.git"
+}

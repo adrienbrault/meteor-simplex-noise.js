@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "simplex-noise": {
+      "version": "2.1.1",
+      "from": "simplex-noise@2.1.1",
+      "resolved": "https://registry.npmjs.org/simplex-noise/-/simplex-noise-2.1.1.tgz"
+    }
+  }
+}
